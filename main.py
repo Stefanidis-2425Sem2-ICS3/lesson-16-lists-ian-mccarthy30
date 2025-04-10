@@ -1,6 +1,6 @@
 # Name: Ian McCarthy
 # Title: Lists
-# Date: March 6, 2025
+# Date: April 10, 2025
 # Description: creates a list of 100 random numbers between 0 and 100 and gets the average of all of them
 
 import random
